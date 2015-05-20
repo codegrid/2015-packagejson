@@ -1,0 +1,12 @@
+{
+  "name": "run",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gulp build",
+    "deploy": "gulp deploy",
+    "pack": "gulp pack"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
