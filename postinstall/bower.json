@@ -1,0 +1,13 @@
+{
+  "name": "My Application",
+  "version": "0.0.1",
+  "main": "index.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "underscore": "^1.7.0"
+  }
+}
